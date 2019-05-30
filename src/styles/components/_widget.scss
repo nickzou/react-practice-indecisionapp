@@ -1,0 +1,16 @@
+.widget-header {
+    background: darken($blue, 5%);
+    color: $lavendar;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: $m-size;
+}
+
+.widget-header__title {
+    margin: 0;
+}
+
+.test-modal {
+    background-color: lightblue;
+}
